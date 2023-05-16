@@ -5,7 +5,7 @@ const homePage = new HomePage();
 var userdata = Cypress.env("userdata");
 
 export function goToBooking() {
-  
+  cy.wait(5000)
   homePage.validatePageTitle("New booking").should('be.visible')
 
   this.clickIfExist( homePage.clickBooking())
