@@ -1,0 +1,23 @@
+{
+    "Addresses":{
+        "Address":"9301 Irvine Center Dr, Irvine, CA 92618, USA",
+        "LocationType": "Home",
+        "Parking": "Visitor parking(free)",
+        "Stair":"Half flight",
+        "Pet": "No pets"
+    },
+    "BookingDetails":{
+        "ServiceType": "Facials",
+        "NoOfPeople": "1",
+        "TreatmentType":"Anti-aging Facial"
+    },
+    "RecipientDetails":{
+        "Details":"QA Test"
+    },
+    "PreferredDateAndtime":{
+        "Day": "Tue May 30 2023",
+        "EarliestStart":"06:00 am",
+        "LatestStart": "07:00 am"
+    }
+
+}
